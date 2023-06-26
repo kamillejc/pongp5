@@ -5,8 +5,6 @@
 ## Ferramentas utilizadas:
 
 * JavaScript
-* HTML
-* CSS
 
 ## Feito por:
 
@@ -14,4 +12,4 @@
 
 ### Linkedin: https://www.linkedin.com/kamillejc/
 
-## Desenvolvi o mesmo jogo no Scratch. Acesse: https://scratch.mit.edu/projects/786272227/
+### O mesmo jogo desenvolvido no Scratch. Acesse: https://scratch.mit.edu/projects/786272227/
