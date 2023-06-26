@@ -11,5 +11,3 @@
 ### Kamille Casagrande
 
 ### Linkedin: https://www.linkedin.com/kamillejc/
-
-Pong no p5
