@@ -13,3 +13,5 @@
 ### Kamille Casagrande
 
 ### Linkedin: https://www.linkedin.com/kamillejc/
+
+## Desenvolvi o mesmo jogo no Scratch. Acesse: https://scratch.mit.edu/projects/786272227/
